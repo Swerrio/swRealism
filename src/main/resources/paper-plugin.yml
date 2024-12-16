@@ -1,0 +1,6 @@
+name: swRealism
+version: '1.1'
+main: me.swerrio.swRealism.Main
+api-version: '1.21'
+authors: [ Swerrio ]
+website: swerrio.fun, swerrio.me, swerrio.ru, swerr.io
